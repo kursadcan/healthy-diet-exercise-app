@@ -1,0 +1,2 @@
+username;password;programmeSelection(0-lossWeight,1-gainWeight,2-stayFit);beginTime(dd.mm.yy)-endTime;beginWeight-endWeight;height;age;sex;dietSelection(0-Normal,1-Vegetarian,2-Vegan);nutritionalDisease(0-Normal,1-Diabetes,2-Celiac,3-Reflux);progressScore;currentMenuId
+ecekazan;ecekazanir;0;27.04.2020-01.07.2020;65.200-58.0;176;20;female;0;0;276,000;29
